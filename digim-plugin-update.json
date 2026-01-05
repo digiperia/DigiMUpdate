@@ -1,13 +1,13 @@
 {
   "name": "DigiM",
-  "version": "1.2.4",
-  "download_url": "https://raw.githubusercontent.com/digiperia/DigiMUpdate/main/releases/digimanagement-listings-v1.2.4.zip",
+  "version": "1.2.5",
+  "download_url": "https://raw.githubusercontent.com/digiperia/DigiMUpdate/main/releases/digimanagement-listings-v1.2.5.zip",
   "slug": "digimanagement-listings",
   "requires": "5.0",
   "tested": "6.5",
-  "last_updated": "2025-12-09",
+  "last_updated": "2026-01-05",
   "sections": {
     "description": "Auto-generated update from release branch.",
-    "changelog": "1.2.4 – Pushed via CI from release branch."
+    "changelog": "1.2.5 – Pushed via CI from release branch."
   }
 }
